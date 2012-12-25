@@ -1,4 +1,7 @@
 blenderLikeNodes
 ================
 
-node basic function like blender did
+Demo on the git pages
+
+http://dexta.github.com/blenderLikeNodes/index.html
+
