@@ -1,0 +1,38 @@
+@font-face {
+  font-family: 'Source Code Pro';
+  font-style: normal;
+  font-weight: 100;
+  src: local('Source Code Pro Light'), local('SourceCodePro-Light'), url(../font/SourceCodePro300.ttf) format('truetype');
+}
+
+body {
+	font-family: 'Source Code Pro', sans-serif;
+	}
+
+p {
+	border: 1px solid black;
+	text-align: center;
+	height: 18px;
+	}
+	
+.canvas {
+	-webkit-optimize-contrast: 1;
+	cursor:move;
+	background-image: url('../img/back_BLN_200.png');
+	}
+
+.button {
+	background-color: #00FF00;
+	cursor:pointer;cursor:hand;
+	}
+
+.button hover {
+	background-color: #0000FF;
+	}
+
+.editOff {
+	height: 1px;
+	}
+.editOn {
+	height: 42px;
+	}

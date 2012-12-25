@@ -1,0 +1,10 @@
+
+<link rel="stylesheet" href="css/solid_16col.css" />
+<link rel="stylesheet" href="css/create.css" />
+<script type="text/javascript" src="js/jquery.js"></script>
+<script type="text/javascript" src="js/canvasBasic.js"></script>
+<script type="text/javascript" src="js/bln_basic.js"></script>
+<script type="text/javascript" src="js/bln_logic.js"></script>
+<script type="text/javascript" src="js/canvasFunction.js"></script>
+
+
